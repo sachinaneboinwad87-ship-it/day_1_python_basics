@@ -1,7 +1,7 @@
 # day_1_python_basics
 Date 03/10/2025
 
-Today i learned :
+Today I learned :
 
 -Different naming styles of variables - pascal case, camel case , flat case , snake case
 -Assigning multiple variables in single line.
