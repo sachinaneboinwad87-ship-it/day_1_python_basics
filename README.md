@@ -10,4 +10,14 @@ Today I learned :
   - It contains letter , numbers or underscore ('-')
   - Variables are case-sensitive
   - We can not use reserved  keyword  as variables
-  
+
+In evening we learned how many data types in python how to identify  its types using type()
+- there are following data types used in python 
+- Numeric : 1> int 2> float 3> complex
+- sequence : 1> str 2> List 3> Tuple 
+- set
+- Dictionary
+- Boolean : 1> True & 2> False
+- Binary
+- We can not learn this in deep we just learn how declare data this is 
+   
