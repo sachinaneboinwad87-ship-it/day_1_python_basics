@@ -19,5 +19,5 @@ In evening we learned how many data types in python how to identify  its types u
 - Dictionary
 - Boolean : 1> True & 2> False
 - Binary
-- We can not learn this in deep we just learn how declare data this is 
+- We can not learn this in deep we just learn how declare data and how to check its type this is 
    
