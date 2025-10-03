@@ -5,7 +5,7 @@ myName = "Sachin" # Camel case
 myname = "sachin" # Flat case
 my_name = "Sachin" # Snake case
 
-# we can aslsign multiple variables with multiple value
+# we can assign multiple variables with multiple value
 a,b,c =1,2,3
 print(a,b,c)
 
